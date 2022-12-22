@@ -1,3 +1,4 @@
 # Tech_Blog
-#creator name : Ujjwal Agarwal
-This is a basic full stack tech-blog created using jsp,servlet,sql,jdbc,css,bootstrap 4.
+
+<h2>Getting Started</h2>
+This is a full stack tech-blog created using jsp,servlet,sql,jdbc,css,bootstrap 4.
